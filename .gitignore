@@ -107,3 +107,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Temporary files
+_src_
+_src_old_
+*.zip
